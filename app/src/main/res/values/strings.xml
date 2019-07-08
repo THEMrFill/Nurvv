@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nurvv</string>
+    <string name="enter_city">Enter city name</string>
+    <string name="add_a_city">Add a city</string>
+    <string name="search">Search</string>
+    <string name="city_list_weather_format">\@: %s, %s</string>
+    <string name="city_list_weather_format2">%s</string>
+    <string name="blank"></string>
+</resources>
